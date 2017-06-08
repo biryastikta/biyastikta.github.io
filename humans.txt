@@ -7,7 +7,7 @@
   From: İzmir, Turkey
 
 # SITE
-  Last update: 2014/08/01
+  Last update: 2017/06/08
   Language: English
   Doctype: HTML5, CSS3
   Components: Nothing
